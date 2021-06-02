@@ -1,5 +1,26 @@
-### Hi there 👋
+### Hi there 👋 First shot at creating a Git profile. 
 
+I've been developing software commercially since the days of the mainframe when COBOL ruled. 
+After cutting my teeth with Burroughs, DEC/VAX and HP3000's, I stepped aboard the Microsoft Train from DOS 2.0 forward. 
+I was an early MCP and MCSD, and have wither active or not, kept informed as these products all developed. 
+Its been fun. 
+
+I have written software, some from scratch to cover business types from Borrow Pits to NASDAQ Stock Trading. I've worked, written or interfaced to all types of accounting, HR and invntory systems. Software I've written or worked on Tracked costs and prodction for a machine shop, medical equipment manufacturer, general contrator, vending service, warehousing, Media delivery service, remote backup and at-home stock trading through to the NASDAQ. I won a national award when working for a subsidiery of CompuServe, when CompuServe was king. Still pretty good at debugging. 
+
+🔭 I’m currently working on ...
+I'm developing Microsoft Blazor Web-Based Business Portals. 
+- 🌱 I’m currently learning ...
+- Blazor / Net Core. 
+- 👯 I’m looking to collaborate on ...
+- Need UX and CSS help, but interested in collaborating with others on the Blazor edge of Net Core in oarticular. Being a longtime developer, I have more ideas than I can code. 
+- 🤔 I’m looking for help with ...
+- CSS, Authentication, Multi-tenant, other projects. 
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- email me at hmyers512@gmail.com- 
+- 😄 Pronouns: ... Guru? Some think so, not me. 
+- ⚡ Fun fact: ... I turned to playing music for the last decade, doing less and less development.  *Until the Pandemic* I then dove back into the Microsoft world just as Blazor was getting the water off it's wings. I expect great things. 
+--
 <!--
 **bmusical/bmusical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
