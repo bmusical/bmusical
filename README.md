@@ -1,5 +1,4 @@
-### Hi there 👋 First shot at creating a Git profile. 
-
+### Hi there 👋 Specializing in Blazor because I love it. 
 I've been developing software commercially since the days of the mainframe when COBOL ruled. 
 After cutting my teeth with Burroughs, DEC/VAX and HP3000's, I stepped aboard the Microsoft Train from DOS 2.0 forward. 
 I was an early MCP and MCSD, and have stayed informed as these products all developed, using some here and there 
@@ -14,7 +13,7 @@ I'm developing Microsoft Blazor Web-Based Business Portals.
 - 👯 I’m looking to collaborate on ...
 - Need UX and CSS help, but interested in collaborating with others on the Blazor edge of Net Core in oarticular. Being a longtime developer, I have more ideas than I can code. 
 - 🤔 I’m looking for help with ...
-- CSS, Authentication, Multi-tenant, other projects. 
+- CSS, Authentication, Multi-tenant, Developing Open Source apps 
 - 💬 Ask me about ...
 - Replacing Access Database systems with web sites. 
 - 📫 How to reach me: ...
