@@ -1,4 +1,7 @@
-### Hi there 👋 Specializing in Blazor because I love it. 
+### Hi there 👋 Specializing in Blazor, and Net.Core now feels like home.
+
+I'm looking for collaborators on several projects that have been cooking in my head, and partially in real database and sodftware prototypes. It's more than I can handle alone, so if you're a .NET developer and looking to join a project, drop me a line. 
+
 I've been developing software commercially since the days of the mainframe when COBOL ruled. 
 After cutting my teeth with Burroughs, DEC/VAX and HP3000's, I stepped aboard the Microsoft Train from DOS 2.0 forward. 
 I was an early MCP and MCSD, and have stayed informed as these products all developed, using some here and there 
@@ -8,6 +11,7 @@ I have written software, some from scratch for business types from Borrow Pits t
 
 🔭 I’m currently working on ...
 I'm developing Microsoft Blazor Web-Based Business Portals. 
+
 - 🌱 I’m currently learning ...
 - Blazor / Net Core. 
 - 👯 I’m looking to collaborate on ...
