@@ -1,13 +1,13 @@
-### Hi there 👋 Specializing in Blazor, and Net.Core now feels like home.
+### Projects in 👋  in Blazor, and Net.Core.
 
-I'm looking for collaborators on several projects that have been cooking in my head, and partially in real database and sodftware prototypes. It's more than I can handle alone, so if you're a .NET developer and looking to join a project, drop me a line. 
+I'm looking for collaborators on several projects that have been cooking in my head, and partially in real database and softwaree prototypes. It's more than I can handle alone, so if you're a .NET developer and looking to join a project, drop me a line. 
 
 I've been developing software commercially since the days of the mainframe when COBOL ruled. 
-After cutting my teeth with Burroughs, DEC/VAX and HP3000's, I stepped aboard the Microsoft Train from DOS 2.0 forward. 
+After cutting my teeth with Burroughs, DEC/VAX and HP3000's, I stepped aboard the Microsoft Train from DOS 1.1 forward. 
 I was an early MCP and MCSD, and have stayed informed as these products all developed, using some here and there 
 Its been fun, frustating at times. Computers are still too slow. but i digress..
 
-I have written software, some from scratch for business types from Borrow Pits to Home Shopping Network to NASDAQ Stock Trading. I've worked, written or interfaced to all types of accounting, HR and inventory systems. Software I've written or worked on Tracked costs and production for a machine shop, medical equipment manufacturer, general contrator, vending service, warehousing, Media delivery service (like Muzac), remote backup and at-home stock trading through to the NASDAQ. I won a national award when working for a subsidiery of CompuServe, when CompuServe was king. Still pretty good at debugging and conversion. I do deal with an unusual disability from a bad fall years ago. Onward.
+I have written software, some from scratch for business types from Borrow Pits to Home Shopping Network to NASDAQ Stock Trading. I've worked, written or interfaced to all types of accounting, HR and inventory systems. Custom software I've written fit to machine shops, medical equipment manufacturer, general contrator, vending service, warehousing, Media delivery service (like Muzac), remote backup and at-home stock trading through to the NASDAQ. I've also work on teams to develop software products for resale, a different process than a customer system for one company. At that time, I won a national award from parent company, CompuServe, when CompuServe was king. Still pretty good at debugging and conversion. I do deal with an unusual disability from a bad fall years ago. Onward.
 
 🔭 I’m currently working on ...
 I'm developing Microsoft Blazor Web-Based Business Portals. 
