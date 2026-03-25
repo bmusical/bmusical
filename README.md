@@ -35,7 +35,7 @@ I’ve been shipping commercial software since the mainframe era. From **COBOL**
 * **Franchise Job Manager:** Converting a 25-year-old Access database for service firms into a modern, multi-tenant SaaS product.
 * **Symptomology:** A specialized application focused on health and medical logic.
 * **Open Mic Shows:** A platform leveraging my experience as a musician and host to manage live performance events.
-* **[TickyTacky3D](https://3d-tic-tac-toe.com):** A 3D Tic-Tac-Toe game and companion book project designed to push the boundaries of Blazor UI.
+* **[TickyTack.3d](https://3d-tic-tac-toe.com):** A 3D Tic-Tac-Toe game and companion book project designed to push the boundaries of Blazor UI.
 
 ---
 
