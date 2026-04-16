@@ -1,7 +1,7 @@
 # 👋 Harvey Myers | HxM Blazor Software
 ### **Senior Architect | Blazor Specialist | .NET 10 & AI-Augmented Development**
 
-I’ve been shipping commercial software since the mainframe era. From **COBOL** and **DOS 1.1** to modern **Blazor WebAssembly**, I’ve spent four decades turning complex business problems into elegant code. After a decade-long "intermission" as a professional musician, I’ve returned to the IDE to leverage the latest in **.NET 10** and **AI-driven development.**
+I’ve been shipping commercial software since the mainframe era. From **COBOL** and **DOS 1.1** to modern **Blazor WebAssembly**, I’ve spent four decades turning complex business problems into elegant code. After a decade-long "intermission" as a professional musician, I’ve returned to the IDE to leverage the latest in **.NET 10** and **AI-driven development**, specializing in all things Blazor. Flying solo now, I spent the last 4 years developing high-speed applications for a manufacturing floor environment. High speed can be a challenge with asynchronous code. 
 
 ---
 
